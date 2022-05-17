@@ -5,7 +5,7 @@
     "name": "Andre Mesquita",
     "label": "Solution Architect - Software Developer",
     "image": "https://www.andremesquita.com/wp-content/uploads/2020/07/BdP_quadrado_100x100.jpg",
-    "email": "andre@avmsistemas.net",
+    "email": "avmesquita@hotmail.com",
     "phone": "+351910233705",
     "url": "https://andremesquita.com",
     "summary": "Self-taught, proactive, generalist professional with a profile of development and systems integration, having worked for 14 years with development in Delphi and relational databases and in the last 10 years with .NET platform and cloud computing. \n\nPerhaps the greatest challenge of my career is to identify which part of my profession is not a hobby. The ease of logical understanding and the constant search for knowledge are great drivers of my career.",
@@ -28,7 +28,7 @@
     {
       "name": "REDITUS, SA",
       "endDate": "",
-      "highlights": [],
+      "highlights": [ "architect", "developer", ".net", "asp.net", "mvc", "typescript", "angular", "javascript", "devops"  ],
       "position": "Senior Software Engineer",
       "startDate": "2020-06-30",
       "summary": "I started working with Reditus and PorData teams with javascript. I worked with Reditus Team at a great switzerland asset marketplace (Taurus Group) using Angular. Now I work at ANPG's project as analyst, architect, developer & devops.",
@@ -37,7 +37,7 @@
     {
       "name": "WA FENIX",
       "endDate": "2020-04-30",
-      "highlights": [],
+      "highlights": [ "developer", ".net", "asp.net", "full stack" ],
       "position": "Senior System Analyst - .NET Developer",
       "startDate": "2019-09-30",
       "summary": "I worked at Banco de Portugal as a senior .NET software development (asp.net, mvc, webapi, webservices, tfs, c#, sql server) with a Solid Network team working in a project called Sires a.k.a. Relevated System Information to Supervisioned Entities.\n\nI acted into e-commerce SND Project (asp.net, mvc, webapi, webservices, git, tfs, c#, sql server) remotely at WA Fênix Software Factory.",
