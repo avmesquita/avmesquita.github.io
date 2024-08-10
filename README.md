@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=avmesquita&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### About Me:    
 I am passionate about developing software applications and systems.
 
@@ -8,6 +6,10 @@ I have 48 years old, I code about 30 years and love be coding, integrating techn
 For years, I published my software on platforms such as Tucows and SuperDownloads for free use, having reached more than 20k downloads, such as <a href="https://github.com/avmesquita/idecobol">IDE Cobol</a> . Today I use <a href="https://github.com/avmesquita">GitHub</a> and <a href="https://hub.docker.com/u/avmesquita">Docker Hub</a> to publish software, technologies and studies, in order to help the community and inspire new software developers.
 
 When I'm not coding, I'm either cooking or studying philosophy or taking long walks around.
+
+<div>&nbsp;</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=avmesquita&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>&nbsp;</div>
 
