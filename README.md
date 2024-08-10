@@ -9,9 +9,7 @@ When I'm not coding, I'm either cooking or studying philosophy or taking long wa
 
 <div>&nbsp;</div>
 
-<div style="text-align:center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=avmesquita&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 
 <div>&nbsp;</div>
 
