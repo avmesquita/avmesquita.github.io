@@ -28,7 +28,7 @@
     {
       "name": "REDITUS, SA",
       "endDate": "",
-      "highlights": [ "architect", "developer", ".net", "asp.net", "mvc", "typescript", "angular", "javascript", "devops"  ],
+      "highlights": [ "architect", "developer", ".net", "asp.net", "mvc", "typescript", "angular", "javascript", "devops", "nestjs", "docker", "azure" ],
       "position": "Senior Software Engineer",
       "startDate": "2020-06-30",
       "summary": "I started working with Reditus and PorData teams with javascript. I worked with Reditus Team at a great switzerland asset marketplace (Taurus Group) using Angular. Now I work at ANPG's project as analyst, architect, developer & devops.",
@@ -37,7 +37,7 @@
     {
       "name": "Banco de Portugal",
       "endDate": "2020-04-30",
-      "highlights": [ "developer", ".net", "asp.net", "full stack" ],
+      "highlights": [ "developer", ".net", "asp.net", "full stack", "sql server", "transact sql" ],
       "position": "Senior System Analyst - .NET Developer",
       "startDate": "2019-09-30",
       "summary": "I worked at Banco de Portugal as a senior .NET software development (asp.net, mvc, webapi, webservices, tfs, c#, sql server) with a Solid Network team working in a project called Sires a.k.a. Relevated System Information to Supervisioned Entities.\n\nI acted into e-commerce SND Project (asp.net, mvc, webapi, webservices, git, tfs, c#, sql server) remotely at WA Fênix Software Factory.",
@@ -46,7 +46,7 @@
     {
       "name": "AVM Sistemas",
       "endDate": "",
-      "highlights": [],
+      "highlights": [ "architect", "developer", ".net", "asp.net", "mvc", "typescript", "angular", "javascript", "devops", "nestjs", "docker", "azure", "aws", "google cloud", "wordpress", "php" ],
       "position": "Solutions Architect, Software Developer, DevOps, CEO",
       "startDate": "2010-05-31",
       "summary": "My own company to offering solutions remotely. \n\nAs a senior developer I have the possibility to offer a differential to serve various sectors of the industry and propose diversified solutions in more than one platform. I work directly with Amazon, Azure and Google infrastructure, speeding up the development of the solution. Among the solutions delivered, I highlight the development of solutions in C # (Asp.net/C#/VB.NET/Webforms/MVC), Wordpress, Delphi.",
@@ -55,7 +55,7 @@
     {
       "name": "Impeto Informática",
       "endDate": "2019-08-31",
-      "highlights": [],
+      "highlights": [ "developer", ".net", "asp.net", "mvc", "WebForms" ],
       "position": "Senior System Analyst, .NET Software Developer",
       "startDate": "2018-08-31",
       "summary": "I was working at IBMEC, in Citibank Tower, developing solutions in educational, financial and service management systems. I act as senior .NET software development (asp.net, mvc, webapi, webservices, git, c#, webforms, angular js).",
@@ -64,7 +64,7 @@
     {
       "name": "Impeto Informática",
       "endDate": "2018-05-31",
-      "highlights": [],
+      "highlights": [ "developer", ".net", "asp.net", "mvc", "WebForms" ],
       "position": "Senior System Analyst, Software Developer .NET",
       "startDate": "2018-02-28",
       "summary": "I acted with IBMEC team to work into their projects to manage financial and customership systems, developing new features.\n\nFinancial System, called  SIGA, was developed into a hybrid system in C#, WebForms, Mvc and Angular JS with webservices and processes monitoring. Academic System was made to attend the classmate around the courses and was made in C# .NET MVC, bases with Stored Procedures and WebServices.\n\nFlow control of all systems working with a C# .net backend processed to do life to all systems.",
@@ -73,7 +73,7 @@
     {
       "name": "Impeto Informática",
       "endDate": "2016-01-31",
-      "highlights": [],
+      "highlights": [ "developer", ".net", "asp.net", "mvc", "WebForms", "aws", "delphi", "wordpress", "sql server", "oracle", "mysql", "transact sql" ],
       "position": "System Analyst, Senior Software Developer",
       "startDate": "2012-04-30",
       "summary": "I worked with application development and participated of migration to cloud computing industry. At Ímpeto, I am awarded AWS Essentials, AWS Technical Professional and AWS Business Professional certifications.\nI worked into with S2 Holding company, Certifique Online, Ooyala Brasil, Academia do Concurso,  SEPE-RJ, TV Globo, IRB Brasil and as outsourcing at Casa & Vídeo.\nI have a pleasure to develop my own tools to help in the study and solution proposal. As needed, I worked with Delphi, Visual Studio VB.NET/C# , SQL Server, Oracle, Mysql, SSIS, Wordpress, Linux.",
@@ -82,7 +82,7 @@
     {
       "name": "Orialnet Sistemas e Soluções Integradas",
       "endDate": "2012-04-30",
-      "highlights": [],
+      "highlights": [ "developer", "delphi", "abap", "oracle", "pl/sql" ],
       "position": "Senior Software Developer",
       "startDate": "2011-12-31",
       "summary": "The company is focused on international trade and has some related products. The systems are integrated with SAP. Here we work with Delphi, Oracle PL/SQL and ABAP.",
@@ -91,7 +91,7 @@
     {
       "name": "Philips Healthcare",
       "endDate": "2011-11-30",
-      "highlights": [],
+      "highlights": [ "developer", "delphi", "oracle", "postgres" ],
       "position": "Senior Software Developer",
       "startDate": "2011-05-31",
       "summary": "I worked with Delphi on backend development at Philips MultiMED RIS product.",
@@ -100,7 +100,7 @@
     {
       "name": "Ímpeto Informática",
       "endDate": "2011-04-30",
-      "highlights": [],
+      "highlights": [ "developer", "delphi", "sql server", "transact sql" ],
       "position": "Senior Software Developer",
       "startDate": "2010-02-28",
       "summary": "I have worked on Delphi and Transact SQL backend solutions in support of retail-driven applications.",
@@ -109,7 +109,7 @@
     {
       "name": "Casa & Video",
       "endDate": "2011-04-30",
-      "highlights": [],
+      "highlights": [ "developer", "delphi", "sql server", "oracle", "mysql", "c#", "wcf", "soap" ],
       "position": "Senior Software Developer, Systems Analyst",
       "startDate": "2008-07-31",
       "summary": "I worked in the development of back office solutions for retail. Commonly used tools were Delphi, SQL Server (Transact-SQL), Oracle, MySQL, C#, WCF/SOAP webservices.",
@@ -118,7 +118,7 @@
     {
       "name": "Nexxus Sistemas",
       "endDate": "2008-03-31",
-      "highlights": [],
+      "highlights": [ "developer", "delphi", "sql server", "transact sql" ],
       "position": "Software Developer",
       "startDate": "2007-07-31",
       "summary": "Software development of Asset Management Systems with Borland Delphi 5/7, SQL Server 2000, MySQL, Firebird.",
@@ -127,7 +127,7 @@
     {
       "name": "CMCorp Soluções em Informática.",
       "endDate": "2007-06-30",
-      "highlights": [],
+      "highlights": [ "developer", "delphi", "oracle" ],
       "position": "Software Developer",
       "startDate": "2007-03-31",
       "summary": "Software development of Private Previdence Systems with Borland Delphi and Oracle.",
@@ -136,7 +136,7 @@
     {
       "name": "LexOnline Consultores Associados Ltda.",
       "endDate": "2007-02-28",
-      "highlights": [],
+      "highlights": [ "developer", "delphi" ],
       "position": "Software Developer",
       "startDate": "2006-09-30",
       "summary": "Development Lawyer System with Borland Delphi 6/7, Data Model with ER-Win, Turbo Power Flash Filer Database, Firebird Embeded Database, configuration, scripting and tunnig of Linux Server, little development of Servlets/JSP.",
@@ -145,7 +145,7 @@
     {
       "name": "PredialNET Informática Ltda.",
       "endDate": "2006-10-31",
-      "highlights": [],
+      "highlights": [ "developer", "delphi", "mysql" ],
       "position": "Software Developer",
       "startDate": "2006-04-30",
       "summary": "Development Administrative, Operatinal, CRM Systems with Borland Delphi 5/7 with MySQL 4.0/4.1, Data Model with ER-Win, Sockets, Multi-threading, Report Generator and Server Integration Systems.",
@@ -154,7 +154,7 @@
     {
       "name": "BrasilCenter",
       "endDate": "2005-09-30",
-      "highlights": [],
+      "highlights": [ "developer", "delphi", "oracle" ],
       "position": "Software Developer, Systems Analyst",
       "startDate": "2004-02-28",
       "summary": "Development of Monitoring, Sells and Inbound Systems with Borland Delphi 7, Oracle, Data Model with ERWin, UML with Rose, Version Control System with MS-Source Safe.",
@@ -163,7 +163,7 @@
     {
       "name": "Lee Consultoria e Sistemas Ltda.",
       "endDate": "2003-05-31",
-      "highlights": [],
+      "highlights": [ "developer", "delphi" ],
       "position": "Software Developer",
       "startDate": "2003-03-31",
       "summary": "Database modelling with ERWin, Systems Development with Borland Delphi 5.0 and System Integration of CRM and Retail.",
@@ -172,7 +172,7 @@
     {
       "name": "INCQS - FIOCRUZ",
       "endDate": "2002-09-30",
-      "highlights": [],
+      "highlights": [ "developer", "delphi", "oracle" ],
       "position": "Software Developer",
       "startDate": "2002-07-31",
       "summary": "System Development and System Integrator. CRM (SIGADM) in Borland Delphi 5.0 / Oracle 9i.",
@@ -187,7 +187,7 @@
       "startDate": "2015-12-31",
       "endDate": "",
       "summary": "The best way to learn is teach.\n\nAt Stackoverflow I can help new developers and learn new technologies.",
-      "highlights": []
+      "highlights": [ "c#", "delphi", "javascript", "angular", "nestjs" ]
     },
     {
       "organization": "Movimento tech4COVID19",
@@ -207,7 +207,7 @@
       "startDate": "2005-12-31",
       "endDate": "2005-12-31",
       "gpa": "",
-      "courses": []
+      "courses": [ "SQL", "Administration", "Tunning" ]
     },
     {
       "institution": "FABEC",
