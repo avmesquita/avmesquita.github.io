@@ -5,16 +5,16 @@
     "name": "Andre Mesquita",
     "label": "Solution Architect - Software Developer",
     "image": "https://www.andremesquita.com/wp-content/uploads/2020/07/BdP_quadrado_100x100.jpg",
-    "email": "avmesquita@hotmail.com",
-    "phone": "+351910233705",
+    "email": "avmesquita@gmail.com",
+    "phone": "+5521998428617",
     "url": "https://andremesquita.com",
     "summary": "Self-taught, proactive, generalist professional with a profile of development and systems integration, having worked for 14 years with development in Delphi and relational databases and in the last 10 years with .NET platform and cloud computing. \n\nPerhaps the greatest challenge of my career is to identify which part of my profession is not a hobby. The ease of logical understanding and the constant search for knowledge are great drivers of my career.",
     "location": {
-      "address": "Gulpilhares, Porto, Portugal",
-      "postalCode": "4405-694",
-      "city": "Vila Nova de Gaia",
-      "countryCode": "PT",
-      "region": "Porto"
+      "address": "Niterói, Rio de Janeiro, Brasil",
+      "postalCode": "24230-136",
+      "city": "Niterói",
+      "countryCode": "BR",
+      "region": "Rio de Janeiro"
     },
     "profiles": [
       {
@@ -35,17 +35,17 @@
       "url": "https://reditus.pt"
     },
     {
-      "name": "WA FENIX",
+      "name": "Banco de Portugal",
       "endDate": "2020-04-30",
       "highlights": [ "developer", ".net", "asp.net", "full stack" ],
       "position": "Senior System Analyst - .NET Developer",
       "startDate": "2019-09-30",
       "summary": "I worked at Banco de Portugal as a senior .NET software development (asp.net, mvc, webapi, webservices, tfs, c#, sql server) with a Solid Network team working in a project called Sires a.k.a. Relevated System Information to Supervisioned Entities.\n\nI acted into e-commerce SND Project (asp.net, mvc, webapi, webservices, git, tfs, c#, sql server) remotely at WA Fênix Software Factory.",
-      "url": "http://www.wafx.global/"
+      "url": "https://www.bportugal.pt"
     },
     {
       "name": "AVM Sistemas",
-      "endDate": "2020-04-30",
+      "endDate": "",
       "highlights": [],
       "position": "Solutions Architect, Software Developer, DevOps, CEO",
       "startDate": "2010-05-31",
@@ -255,55 +255,121 @@
       "courses": []
     }
   ],
+  "certificates": [
+    {
+      "name": "Fing IT Professional (Credential ID ITPRO-200819903)",
+      "date": "2024-07-07",
+      "issuer": "Fing",
+      "url": "https://www.fing.com/"
+    },
+    {
+      "name": "Azure Data Fundamentals",
+      "date": "2021-06-01",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/3bc7c153-9f29-4ff1-b81d-d575eda871ad/public_url"      
+    },
+    {
+      "name": "C# & .NET: Programming",
+      "date": "2020-05-13",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/af3e123cffd05510e32419435d610bfbf8e28aa588608692eb66c57fd1210349?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    },    
+    {
+      "name": "C# Design Patterns: Part 3",
+      "date": "2020-05-13",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/4d50ac437c26959d2ebad089e783405b61bf61da4afd1167cf815cb3aef7862a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    },
+    {
+      "name": "C#: Delegates, Events and Lambdas",
+      "date": "2020-05-14",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/201db8cc2e5aaecf6c79798861db7e555a12799777e4b98389286b66b4a3978e?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    },
+    {
+      "name": "Cloud Architecture: Advanced Concepts",
+      "date": "2020-05-14",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/705748c305fd53b6b47f6b4d5ef976abf55e75434719d0e08a55a4155f57459b?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    },
+    {
+      "name": "Docker for .NET Developers with Visual Studio",
+      "date": "2020-05-14",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/ec25655d19d41d588e64223b5dbbd2089a4a0a38a2a2aa87b2eb7646669198ef?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    },
+    {
+      "name": "Learning .NET Programming",
+      "date": "2020-05-08",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/72acd84e09d99cfd5c5c7c0dbf49e2c76409e9317b5ae9c6e85b22479a44dcbd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    },
+    {
+      "name": "Learning ASP.NET Core MVC",
+      "date": "2020-05-13",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/fe40b669a43257eb2020d9734fe1f561ae4d06c3cc0b40e37ca58d4dd1d67d97?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    },
+    {
+      "name": "Learning C# Algorithms",
+      "date": "2020-05-13",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/23885ef96a43640ee19176e72c30985f0bfc19a8cbf8cb359104c90ab7ddab0b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    }
+  ],  
   "awards": [],
   "publications": [],
   "skills": [
     {
       "name": "Cloud Computing",
-      "level": "",
+      "level": "Advanced",
       "keywords": [ "AWS" , "Azure" ]
     },
     {
       "name": "Relational Databases",
-      "level": "",
+      "level": "Advanced",
       "keywords": [ "Oracle", "SQL Server", "PostgreSQL", "MySQL", "Firebird", "Interbase" ]
     },
     {
       "name": "Database Programming",
-      "level": "",
+      "level": "Advanced",
       "keywords": [ "Transact SQL", "PL/SQL" ]
     },
     {
       "name": "Tools",
-      "level": "",
+      "level": "Advanced",
       "keywords": [ "Microsoft Project", "Visual Studio", "Visual Code", "ER-Win" ]
     },
     {
       "name": "Development Languages",
-      "level": "",
-      "keywords": [ "Angular", "C#", "PHP", "Delphi", "VB.NET", "ASP.NET WebForms", "ASP.NET MVC", "Javascript", "ABAP", "SSIS", "Shell Scripting" ]
+      "level": "Advanced",
+      "keywords": [ "Angular", "C#", "PHP", "Delphi", "VB.NET", "ASP.NET WebForms", "ASP.NET MVC", "Javascript", "ABAP", "SSIS", "Shell Scripting", "TypeScript" ]
     },
     {
       "name": "Methodologies",
-      "level": "",
+      "level": "Advanced",
       "keywords": [ "Scrum", "XP", "Design Patterns", "UML", "Data Modelling" ]
     },
     {
       "name": "Platforms",
-      "level": "",
+      "level": "Advanced",
       "keywords": [ "Windows", "Linux", "Windows Mobile" ]
     },
     {
       "name": "Industry",
-      "level": "",
+      "level": "Advanced",
       "keywords": [ "E-commerce", "Financial", "Retail", "Asset Management" ]
     }	
   ],
   "languages": [
     {
       "language": "pt",
-      "fluency": "Native Speaker"
+      "fluency": "Fluent"
     },
+    {
+      "language": "br",
+      "fluency": "Native Speaker"
+    },    
     {
       "language": "en",
       "fluency": "Intermediate"
