@@ -8,7 +8,7 @@
     "email": "avmesquita@gmail.com",
     "phone": "+5521998428617",
     "url": "https://andremesquita.com",
-    "summary": "Self-taught, proactive, generalist professional with a profile of development and systems integration, having worked for 14 years with development in Delphi and relational databases and in the last 10 years with .NET platform and cloud computing. \n\nPerhaps the greatest challenge of my career is to identify which part of my profession is not a hobby. The ease of logical understanding and the constant search for knowledge are great drivers of my career.",
+    "summary": "Profissional autodidata, proativo, generalista, com perfil de desenvolvimento e integração de sistemas, tendo atuado por 14 anos com desenvolvimento em Delphi e bancos de dados relacionais e nos últimos 15 anos com plataforma .NET, Angular e cloud computing. \n\nTalvez o maior desafio da minha carreira seja identificar qual parte da minha profissão não é um hobby. A facilidade de entendimento lógico e a busca constante por conhecimento são grandes impulsionadores da minha carreira.",
     "location": {
       "address": "Niterói, Rio de Janeiro, Brasil",
       "postalCode": "24230-136",
@@ -28,7 +28,7 @@
     {
       "name": "REDITUS, SA",
       "endDate": "",
-      "highlights": [ "architect", "developer", ".net", "asp.net", "mvc", "typescript", "angular", "javascript", "devops", "nestjs", "docker", "azure" ],
+      "highlights": [ "architect", "developer", ".net", "asp.net", "mvc", "angular", "javascript", "devops", "nestjs", "docker", "azure" ],
       "position": "Engenheiro de Software Senior",
       "startDate": "2020-06-30",
       "summary": "O trabalho na equipa Reditus permite-me trabalhar com grandes clientes & soluções e projetos internos. Alguns clientes: BdP (Banco de Portugal), PorData (Fundação Manuel dos Santos), Taurus (Suíça), ANPG (Angola), ASF Portugal (Autoridade de Supervisão de Seguros e Fundos de Pensões), Vortal, Igreja Ismaili. Habilidades directas:modelagem de dados, arquitectura de soluções, tecnologias diversas (.NET, typescript, php, angular, nestjs, wordpress, azure, devops) ",
@@ -119,7 +119,7 @@
       "name": "Nexxus Sistemas",
       "endDate": "2008-03-31",
       "highlights": [ "developer", "delphi", "sql server", "transact sql" ],
-      "position": "Programador Delphi",
+      "position": "Analista/Programador Delphi",
       "startDate": "2007-07-31",
       "summary": "A Nexxus actua no desenvolvimento de produtos no ramo de fundos de investimentos. Possuem produtos ímpares para gerência, apuração e performance de fundos de investimentos a usar ferramentas como o Delphi e Transact-SQL.",
       "url": "https://nexxus-sistemas.com.br/"
@@ -128,7 +128,7 @@
       "name": "CMCorp Soluções em Informática.",
       "endDate": "2007-06-30",
       "highlights": [ "developer", "delphi", "oracle" ],
-      "position": "Programador Delphi",
+      "position": "Analista/Programador Delphi",
       "startDate": "2007-03-31",
       "summary": "Trabalhei no desenvolvimento e manutenção do produto para previdência privada a usar como ferramentas, o Delphi, Oracle e PL/SQL.",
       "url": "https://www.cmcorp.com.br/"
@@ -137,7 +137,7 @@
       "name": "LexOnline Consultores Associados Ltda.",
       "endDate": "2007-02-28",
       "highlights": [ "developer", "delphi" ],
-      "position": "Programador Delphi",
+      "position": "Analista/Programador Delphi",
       "startDate": "2006-09-30",
       "summary": "Actuei no sistema de gerenciamento de processos e andamentos jurídicos com front-end em Borland Delphi 6/7 e banco de dados Turbo Power Flash Filer Database. Firebird Embeded Database para software em CD-ROM e mantutenção de servlets para comunicação com os tribunais.​",
       "url": ""
@@ -146,7 +146,7 @@
       "name": "PredialNET Informática Ltda.",
       "endDate": "2006-10-31",
       "highlights": [ "developer", "delphi", "mysql" ],
-      "position": "Programador Delphi",
+      "position": "Analista/Programador Delphi",
       "startDate": "2006-04-30",
       "summary": "A PredialNET é um provedor de acesso à internet. Com a equipa de sistemas de excelência da empresa pude aperfeiçoar meu entendimento sobre redes complexas e comunicação. Trabalhei no desenvolvimento do produto interno para administração de clientes e fornecimento de serviços de conectividade (Sapo), que através de sockets permitia uma resposta em tempo real com os gateways da rede de distribuição. Como ferramenta, usei o Delphi, MySQL, tecnologia de sockets, multi-threading, pesquisa e integração Asterisk..",
       "url": "https://predialnet.com.br/"
@@ -322,57 +322,57 @@
   "skills": [
     {
       "name": "Cloud Computing",
-      "level": "Advanced",
+      "level": "",
       "keywords": [ "AWS" , "Azure" ]
     },
     {
       "name": "Relational Databases",
-      "level": "Advanced",
+      "level": "",
       "keywords": [ "Oracle", "SQL Server", "PostgreSQL", "MySQL", "Firebird", "Interbase" ]
     },
     {
       "name": "Database Programming",
-      "level": "Advanced",
+      "level": "",
       "keywords": [ "Transact SQL", "PL/SQL" ]
     },
     {
       "name": "Tools",
-      "level": "Advanced",
-      "keywords": [ "Microsoft Project", "Visual Studio", "Visual Code", "ER-Win" ]
+      "level": "",
+      "keywords": [ "Microsoft Project", "Visual Studio", "Visual Code", "ER-Win", "Oracle SQL Developer" ]
     },
     {
       "name": "Development Languages",
-      "level": "Advanced",
+      "level": "",
       "keywords": [ "Angular", "C#", "PHP", "Delphi", "VB.NET", "ASP.NET WebForms", "ASP.NET MVC", "Javascript", "ABAP", "SSIS", "Shell Scripting", "TypeScript" ]
     },
     {
       "name": "Methodologies",
-      "level": "Advanced",
+      "level": "",
       "keywords": [ "Scrum", "XP", "Design Patterns", "UML", "Data Modelling" ]
     },
     {
       "name": "Platforms",
-      "level": "Advanced",
+      "level": "",
       "keywords": [ "Windows", "Linux", "Windows Mobile" ]
     },
     {
       "name": "Industry",
-      "level": "Advanced",
+      "level": "",
       "keywords": [ "E-commerce", "Financial", "Retail", "Asset Management" ]
     }	
   ],
   "languages": [
     {
       "language": "pt",
-      "fluency": "Fluent"
+      "fluency": "Fluente"
     },
     {
       "language": "br",
-      "fluency": "Native Speaker"
+      "fluency": "Nativo"
     },    
     {
       "language": "en",
-      "fluency": "Intermediate"
+      "fluency": "Intermédio B2"
     }	
   ],
   "interests": [],
