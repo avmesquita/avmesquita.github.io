@@ -1,0 +1,1068 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
+  <title>Andre Mesquita</title>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <style>
+    /* Utils */
+/*----- Colors -----*/
+/*----- Fonts -----*/
+/*----- Dimensions and sizes -----*/
+/* Base */
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/josefinsans/v32/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_GbQbMZhKg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/josefinsans/v32/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhKg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-v.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPHA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf) format('truetype');
+}
+
+body {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  background: white;
+  margin: 50px 0;
+  letter-spacing: 0.3px;
+  color: #39424B;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: uppercase;
+  margin: 0;
+}
+
+h1 {
+  font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  letter-spacing: 1px;
+  margin-bottom: 5px;
+}
+
+h2 {
+  font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+}
+
+h3 {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  letter-spacing: 0.4px;
+}
+h3.bold {
+  font-weight: 700;
+}
+
+h4 {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+}
+h4.bold {
+  font-weight: 700;
+}
+
+h5 {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 11px;
+}
+h5.italic {
+  font-style: italic;
+}
+
+h6 {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 10px;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #2895F1;
+}
+a .fa-external-link {
+  font-size: 10px;
+  vertical-align: text-top;
+}
+
+p,
+li {
+  font-size: 11px;
+}
+
+blockquote {
+  font-size: 11px;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  margin: 10px 25px;
+}
+
+em {
+  color: #999;
+}
+
+ul {
+  margin: 10px 0 0;
+  -webkit-padding-start: 25px;
+}
+ul li {
+  padding-left: 10px;
+}
+ul.minimal {
+  list-style: none;
+  padding: 0;
+}
+ul.minimal li {
+  margin-bottom: 3px;
+  padding-left: 0;
+}
+ul.minimal h6 {
+  background: #ededf5;
+  border-radius: 4px;
+  width: max-content;
+  padding: 2px;
+}
+ul.two-column {
+  -webkit-column-count: 2;
+  -webkit-column-gap: 28px;
+  column-count: 2;
+  column-gap: 28px;
+}
+ul.two-column li {
+  padding-left: 0;
+}
+
+.keywords-container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 4px;
+  font-size: 12px;
+}
+
+.keyword {
+  background-color: #ededf5;
+  padding: 2px;
+  border-radius: 4px;
+}
+
+@page {
+  size: A4;
+}
+.container {
+  padding-top: 20px;
+}
+
+.keyline {
+  width: 45px;
+  margin: 8px 0 10px;
+  border-top: 1px solid #56817A;
+}
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.profile-pic {
+  margin-top: -5px;
+  margin-right: 18px;
+}
+.profile-pic img {
+  height: 52px;
+  width: 52px;
+  border-radius: 50%;
+  border: 2px solid #56817A;
+}
+
+.summary {
+  margin: 5px 0 5px;
+  font-size: 13px;
+}
+
+.highlights {
+  margin-bottom: 10px;
+}
+
+.highlight-list {
+  display: flex;
+}
+
+.highlight-title {
+  width: 77px;
+}
+
+.highlight-desc {
+  width: 425px;
+}
+
+.project-section {
+  padding-left: 20px;
+}
+
+.about-project {
+  padding-left: 22px;
+  position: relative;
+  top: -17px;
+}
+
+.duration {
+  font-weight: 600;
+}
+
+/* Layouts */
+.page {
+  background: white;
+  width: 791px;
+  min-height: 792px;
+  display: block;
+  margin: 0 auto;
+  border-top: 10px solid #56817A;
+  padding: 36px 1px 30px 1px;
+}
+.page:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.left-column {
+  float: left;
+  width: 160px;
+  margin-right: 20px;
+  word-wrap: break-word;
+}
+
+.right-column {
+  width: auto;
+  overflow: hidden;
+}
+
+.item {
+  margin-bottom: 15px;
+}
+.item:last-child {
+  margin-bottom: 0;
+}
+
+@media print {
+  body {
+    margin: 0;
+  }
+  .page {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 36px 0 30px;
+    box-shadow: none;
+  }
+  .page .resume-header,
+  .page .resume-content {
+    padding: 0 22px 0 34px;
+  }
+  .container {
+    page-break-inside: avoid;
+  }
+  .work-container .item {
+    page-break-inside: avoid;
+  }
+  .fa-external-link {
+    display: none;
+  }
+}
+/* Components */
+.info-tag-container {
+  margin-bottom: 5px;
+}
+.info-tag-container .fa {
+  font-size: 14px;
+  width: 12px;
+  margin-right: 5px;
+  text-align: center;
+  vertical-align: middle;
+}
+.info-tag-container .fa.fa-map-marker {
+  font-size: 16px;
+}
+.info-tag-container .fa.fa-mobile {
+  font-size: 18px;
+}
+.info-tag-container .fa.fa-envelope-o {
+  font-size: 12px;
+}
+.info-tag-container .fa.fa-desktop {
+  font-size: 11px;
+}
+.info-tag-container .fa.fa-external-link {
+  width: auto;
+  font-size: inherit;
+  vertical-align: text-top;
+}
+.info-tag-container .info-text {
+  font-size: 9px;
+  display: inline-block;
+  vertical-align: middle;
+  width: 139px;
+}
+.info-tag-container .lowercase {
+  text-transform: lowercase;
+}
+
+.references-container .fa {
+  font-size: 14px;
+}
+
+.education-container .location {
+  padding-bottom: 6px;
+  font-weight: 400;
+}
+.education-container .specialization {
+  text-transform: none;
+  font-style: italic;
+}
+
+.page-break {
+  margin-top: 30px;
+  page-break-before: always;
+}
+
+.container-page-break {
+  padding-top: 30px;
+  page-break-before: always;
+}
+  </style>
+  <style>
+    
+  </style>
+</head>
+
+<body>
+  <main id="resume" class="page">
+    <header class="resume-header clearfix">
+      <div class="profile-header pull-left">
+        <h1>Andre Mesquita</h1>
+        <h2>Arquiteto de Soluções - Desenvolvedor de Software</h2>
+      </div>
+      <div class="profile-pic pull-right">
+      </div>
+    </header>
+    <div class="resume-content">
+      <aside class="left-column">
+        <div class="container about-container">
+          <div class="title">
+            <h3>Sobre</h3>
+            <div class="keyline"></div>
+          </div>
+        
+            <div class="info-tag-container">
+                <i class="fa fa-map-marker"></i>
+            
+                <h6 class="info-text">Niterói, Rio de Janeiro, Brasil, 24230-136</h6>
+            </div>
+            <div class="info-tag-container">
+                <i class="fa fa-envelope-o"></i>
+            
+                <h6 class="info-text lowercase">
+                  <a href="https://andremesquita.com" target="_blank">
+                    avmesquita@gmail.com</i>
+                  </a>
+                </h6>
+            </div>
+            <div class="info-tag-container">
+                <i class="fa fa-mobile"></i>
+            
+                <h6 class="info-text">
+                  <a href="https://andremesquita.com" target="_blank">
+                    +5521998428617</i>
+                  </a>
+                </h6>
+            </div>
+        
+                      <div class="info-tag-container">
+                          <i class="fa fa-linkedin-square"></i>
+                      
+                          <h6 class="info-text lowercase">
+                            <a href="https://www.linkedin.com/in/avmesquita/" target="_blank">
+                              linkedin.com/in/avmesquita
+                            </a>
+                          </h6>
+                      </div></section>
+        <div class="skills-container">
+          <section class="container">
+              <div class="title">
+                <h3>Cloud Computing</h3>
+                <div class="keyline"></div>
+              </div>
+              <div class="keywords-container">
+                <span class="keyword">AWS</span>
+                <span class="keyword">Azure</span>
+              </div>
+          </section>
+          <section class="container">
+              <div class="title">
+                <h3>Relational Databases</h3>
+                <div class="keyline"></div>
+              </div>
+              <div class="keywords-container">
+                <span class="keyword">Oracle</span>
+                <span class="keyword">SQL Server</span>
+                <span class="keyword">PostgreSQL</span>
+                <span class="keyword">MySQL</span>
+                <span class="keyword">Firebird</span>
+                <span class="keyword">Interbase</span>
+              </div>
+          </section>
+          <section class="container">
+              <div class="title">
+                <h3>Database Programming</h3>
+                <div class="keyline"></div>
+              </div>
+              <div class="keywords-container">
+                <span class="keyword">Transact SQL</span>
+                <span class="keyword">PL/SQL</span>
+              </div>
+          </section>
+          <section class="container">
+              <div class="title">
+                <h3>Tools</h3>
+                <div class="keyline"></div>
+              </div>
+              <div class="keywords-container">
+                <span class="keyword">Microsoft Project</span>
+                <span class="keyword">Visual Studio</span>
+                <span class="keyword">Visual Code</span>
+                <span class="keyword">ER-Win</span>
+                <span class="keyword">Oracle SQL Developer</span>
+              </div>
+          </section>
+          <section class="container">
+              <div class="title">
+                <h3>Development Languages</h3>
+                <div class="keyline"></div>
+              </div>
+              <div class="keywords-container">
+                <span class="keyword">Angular</span>
+                <span class="keyword">C#</span>
+                <span class="keyword">PHP</span>
+                <span class="keyword">Delphi</span>
+                <span class="keyword">VB.NET</span>
+                <span class="keyword">ASP.NET WebForms</span>
+                <span class="keyword">ASP.NET MVC</span>
+                <span class="keyword">Javascript</span>
+                <span class="keyword">ABAP</span>
+                <span class="keyword">SSIS</span>
+                <span class="keyword">Shell Scripting</span>
+                <span class="keyword">TypeScript</span>
+              </div>
+          </section>
+          <section class="container">
+              <div class="title">
+                <h3>Methodologies</h3>
+                <div class="keyline"></div>
+              </div>
+              <div class="keywords-container">
+                <span class="keyword">Scrum</span>
+                <span class="keyword">XP</span>
+                <span class="keyword">Design Patterns</span>
+                <span class="keyword">UML</span>
+                <span class="keyword">Data Modelling</span>
+              </div>
+          </section>
+          <section class="container">
+              <div class="title">
+                <h3>Platforms</h3>
+                <div class="keyline"></div>
+              </div>
+              <div class="keywords-container">
+                <span class="keyword">Windows</span>
+                <span class="keyword">Linux</span>
+                <span class="keyword">Windows Mobile</span>
+              </div>
+          </section>
+          <section class="container">
+              <div class="title">
+                <h3>Industry</h3>
+                <div class="keyline"></div>
+              </div>
+              <div class="keywords-container">
+                <span class="keyword">E-commerce</span>
+                <span class="keyword">Financial</span>
+                <span class="keyword">Retail</span>
+                <span class="keyword">Asset Management</span>
+              </div>
+          </section>
+        </div>
+        <div class="container languages-container">
+          <div class="title">
+            <h3>Languages</h3>
+            <div class="keyline"></div>
+          </div>
+        
+          <ul class="minimal">
+            <li>
+              <h6>pt <em>(Fluente)</em></h6>
+            </li>
+            <li>
+              <h6>br <em>(Nativo)</em></h6>
+            </li>
+            <li>
+              <h6>en <em>(Intermédio B2)</em></h6>
+            </li>
+          </ul>
+        </div>
+      </aside>
+      <div class="right-column">
+        <div class="container summary-container">
+          <div class="title">
+            <h3>Resumo</h3>
+            <div class="keyline"></div>
+          </div>
+          <p class="summary">
+            Profissional autodidata, proativo, generalista, com perfil de desenvolvimento e integração de sistemas, tendo atuado por 14 anos com desenvolvimento em Delphi e bancos de dados relacionais e nos últimos 15 anos com plataforma .NET, Angular e cloud computing. 
+        
+        Talvez o maior desafio da minha carreira seja identificar qual parte da minha profissão não é um hobby. A facilidade de entendimento lógico e a busca constante por conhecimento são grandes impulsionadores da minha carreira.
+          </p>
+        </div>
+        <div class="container work-container">
+          <div class="title">
+            <h3>Experiência</h3>
+            <div class="keyline"></div>
+          </div>
+        
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">06/2020</span>
+                  <span class="endDate"> - Actual</span>
+              </h5>
+            </div>
+        
+            <p class="summary">O trabalho na equipa Reditus permite-me trabalhar com grandes clientes &amp; soluções e projetos internos. Alguns clientes: BdP (Banco de Portugal), PorData (Fundação Manuel dos Santos), Taurus (Suíça), ANPG (Angola), ASF Portugal (Autoridade de Supervisão de Seguros e Fundos de Pensões), Vortal, Igreja Ismaili. Habilidades directas:modelagem de dados, arquitectura de soluções, tecnologias diversas (.NET, typescript, php, angular, nestjs, wordpress, azure, devops) </p>
+        
+            <p class=""><b>Skills:</b> arquitecto, programador, .net, asp.net, mvc, angular, javascript, devops, nestjs, docker, azure</p>
+        
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">09/2019</span>
+                  <span class="endDate"> - 04/2020</span>
+              </h5>
+            </div>
+        
+            <p class="summary">Fui selecionado pela equipe Solid Network do grupo Reditus para actuar no projeto SIRES (Sistemas de Informações Relevantes de Entidades Supervisionadas) do Banco de Portugal sob a metodologia Scrum. Dentre as minhas atribuições, actuei com análise e desenvolvimento de software ASP.NET MVC Fullstack com uso de tecnologias REST API e SQL Server.</p>
+        
+            <p class=""><b>Skills:</b> programador, .net, asp.net, full stack, sql server, transact sql, webapi</p>
+        
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">05/2010</span>
+                  <span class="endDate"> - Present</span>
+              </h5>
+            </div>
+        
+            <p class="summary">É uma empresa conceitual unipessoal que me permite criar soluções independentes, partilhar informação e inspirar novos profissionais. Ofereço soluções e consultoria, valendo-se das experiências e oportunidades vividas, com proposta de soluções diversificadas em quaisquer plataformas, a actuar directamente com a infraestrutura de nuvem com o fim de viabilizar o desenvolvimento mais rápido de uma solução. Destaco, como habilidades, o desenvolvimento de soluções .NET (Core, WebForms, MVC), Typescript (Angular, NestJs, Node), PHP (Wordpress), Cloud (AWS, Azure, Google, Openshift, Heroku, Docker, DevOps).</p>
+        
+            <p class=""><b>Skills:</b> arquiteto, programador, .net, asp.net, mvc, typescript, angular, javascript, devops, nestjs, docker, azure, containers, aws, google cloud, sql server, transact sql, webapi, wordpress, php</p>
+        
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">08/2018</span>
+                  <span class="endDate"> - 08/2019</span>
+              </h5>
+            </div>
+        
+            <p class="summary">Integrei a equipe do cliente IBMEC de desenvolvimento, actuando nos sistemas de gestão académica e gestão financeira. O sistema académico consiste em um sistema desenvolvido em c# e WebForms. Ao longo do tempo, novas funcionalidades foram criadas em MVC e as mais recentes em .NET CORE e Angular. O sistema académico possui ainda um segundo sistema de atendimento ao aluno em .NET MVC, Stored Procedures e WebServices que opera em conjunto com soluções back-end e jobs no SQL Server para dar seguimento ao fluxo necessário de processamento. No sistema financeiro, fui responsável por atuar nas soluções com boleto bancário, remessas e retornos, assim como contribuir ao projeto opensource Boleto.net.</p>
+        
+            <p class=""><b>Skills:</b> programador, .net, asp.net, mvc, webforms, boleto.net</p>
+       
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">02/2018</span>
+                  <span class="endDate"> - 05/2018</span>
+              </h5>
+            </div>
+        
+            <p class="summary">Atuei com a equipe do IBMEC para trabalhar em seus projetos de gerenciamento de sistemas financeiros e de clientes, desenvolvendo novas funcionalidades. O Sistema Financeiro, denominado SIGA, foi desenvolvido em um sistema híbrido em C#, WebForms, Mvc e Angular JS com webservices e monitoramento de processos. O Sistema Acadêmico foi feito para atender os colegas nos cursos e foi feito em C# .NET MVC, baseado em Stored Procedures e WebServices. Controle de fluxo de todos os sistemas trabalhando com um backend C# .net processado para dar vida a todos os sistemas.</p>
+        
+            <p class=""><b>Skills:</b> programador, .net, asp.net, mvc, webforms, boleto.net</p>
+        
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">04/2012</span>
+                  <span class="endDate"> - 01/2016</span>
+              </h5>
+            </div>
+        
+            <p class="summary">A integrar às equipas da Ímpeto, trabalhei com o desenvolvimento de aplicativos e participei da migração para a indústria de computação em nuvem. Recebi as certificações AWS Essentials, AWS Technical Professional e AWS Business Professional e o selo de AWS Partner. Pude desenvolver ferramentas próprias para ajudar em diversas soluções e ferramentas como Delphi, Visual Studio VB.NET / C#, SQL Server, Oracle, Mysql, Integration Services, serviços web, wordpress, além de actuar com Devops. Destaco os clientes Cantão, Redley, Kenner, Certifique Online, SEPE-RJ, Banco de Talentos da TV Globo, IRB Brasil e Casa &amp; Vídeo.</p>
+        
+            <p class=""><b>Skills:</b> programador, .net, asp.net, mvc, webforms, aws, delphi, wordpress, sql server, oracle, mysql, transact sql</p>
+        
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">12/2011</span>
+                  <span class="endDate"> - 04/2012</span>
+              </h5>
+            </div>
+        
+            <p class="summary">A empresa está focada no ramo de classificação de insumos para comércio internacional e oferece um produto bem peculiar que simplifica todo o processo de classificação, integrado com o SAP através de stored procedures em PL/SQL do Oracle ligados por algoritmo ABAP, que é accionado por aplicativos desenvolvidos com a linguagem Delphi.</p>
+        
+            <p class=""><b>Skills:</b> programador, delphi, abap, oracle, pl/sql</p>
+        
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">05/2011</span>
+                  <span class="endDate"> - 11/2011</span>
+              </h5>
+            </div>
+        
+            <p class="summary">A Philips veio a mim como uma possibilidade de conhecer as tecnologias médicas de imagem e sua integração com sistemas informáticos. Trabalhei directamente no desenvolvimento do produto Philips MultiMED RIS para gerência e automação de clínicas e rede de atendimento de diagnóticos médicos. Dentre as habilidades, destaco o Delphi e bancos de dados relacionais (Oracle e PostgreSQL), assim como PL/SQL e PSQL.</p>
+        
+            <p class=""><b>Skills:</b> programador, delphi, abap, oracle, pl/sql, postgres</p>
+        
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">02/2010</span>
+                  <span class="endDate"> - 04/2011</span>
+              </h5>
+            </div>
+        
+            <p class="summary">Trabalhei com Delphi e Transact SQL para soluções de retalho para o cliente Casa &amp; Vídeo.</p>
+        
+            <p class=""><b>Skills:</b> programador, delphi, sql server, transact sql</p>
+        
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">07/2008</span>
+                  <span class="endDate"> - 04/2011</span>
+              </h5>
+            </div>
+        
+            <p class="summary">A Casa &amp; Vídeo é uma empresa tradicional de varejo com mais de 100 lojas. Actuei em soluções de back-office, pós-venda, vendas por canais virtuais e logística em equipa de mais de 300 profissionais de tecnologia, com produção de soluções para as mais diferentes necessidades da empresa.</p>
+        
+            <p class=""><b>Skills:</b> programador, delphi, sql server, transact sql, oracle, mysql, c#, wcf, soap</p>
+        
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">07/2007</span>
+                  <span class="endDate"> - 03/2008</span>
+              </h5>
+            </div>
+        
+            <p class="summary">A Nexxus actua no desenvolvimento de produtos no ramo de fundos de investimentos. Possuem produtos ímpares para gerência, apuração e performance de fundos de investimentos a usar ferramentas como o Delphi e Transact-SQL.</p>
+
+            <p class=""><b>Skills:</b> programador, delphi, sql server, transact sql</p>
+        
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">03/2007</span>
+                  <span class="endDate"> - 06/2007</span>
+              </h5>
+            </div>
+        
+            <p class="summary">Trabalhei no desenvolvimento e manutenção do produto para previdência privada a usar como ferramentas, o Delphi, Oracle e PL/SQL.</p>
+        
+            <p class=""><b>Skills:</b> programador, delphi, oracle, pl/sql</p>            
+        
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">09/2006</span>
+                  <span class="endDate"> - 02/2007</span>
+              </h5>
+            </div>
+        
+            <p class="summary">Actuei no sistema de gerenciamento de processos e andamentos jurídicos com front-end em Borland Delphi 6/7 e banco de dados Turbo Power Flash Filer Database. Firebird Embeded Database para software em CD-ROM e mantutenção de servlets para comunicação com os tribunais.​</p>
+        
+            <p class=""><b>Skills:</b> programador, delphi</p>
+        
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">04/2006</span>
+                  <span class="endDate"> - 10/2006</span>
+              </h5>
+            </div>
+        
+            <p class="summary">A PredialNET é um provedor de acesso à internet. Com a equipa de sistemas de excelência da empresa pude aperfeiçoar meu entendimento sobre redes complexas e comunicação. Trabalhei no desenvolvimento do produto interno para administração de clientes e fornecimento de serviços de conectividade (Sapo), que através de sockets permitia uma resposta em tempo real com os gateways da rede de distribuição. Como ferramenta, usei o Delphi, MySQL, tecnologia de sockets, multi-threading, pesquisa e integração Asterisk..</p>
+
+            <p class=""><b>Skills:</b> programador, delphi, mysql</p>
+        
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">02/2004</span>
+                  <span class="endDate"> - 09/2005</span>
+              </h5>
+            </div>
+        
+            <p class="summary">A BrasilCenter é um dos braços da Embratel destinados a comunicação e atendimento ao cliente. A BrasilCenter foi uma escola de alta tecnologia. Entrei como estagiário em programa do governo, fui efectivado em 6 meses e pude ter ao alcance diário uma equipa de profissionais altamente qualificados como meus colegas. Pude dispor de tecnologia e profissionais de topo de gama, pacientes e professores. Trabalhei no desenvolvimento de softwares tabulação e atendimento com uma equipa com foco em inovação e organização de dados. Por observação, identifiquei padrão de projecto e criei uma ferramenta para geração de códigos para novos aplicativos e classes de persistência convertido do modelo de dados concebidos pelo modelo de entidades (dicionário de dados aplicacional).</p>
+        
+            <p class=""><b>Skills:</b> programador, delphi, oracle, pl/sql</p>
+        
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">03/2003</span>
+                  <span class="endDate"> - 05/2003</span>
+              </h5>
+            </div>
+        
+            <p class="summary">A Lee Consultoria foi muito importante no processo de aprendizado por ter sido meu primeiro contacto com uma software house e suas rotinas. Tínhamos muitos clientes em ramos de segmentos diferentes (gestão administrativa, controlo de estoque, vendas, transporte de passageiros) o que nos forçava a utilizar ferramentas de modelagem de dados relacionais (ER-win) e usar tecnologias mais novas com o Delphi.</p>
+
+            <p class=""><b>Skills:</b> programador, delphi, paradox, interbase</p>
+        
+            <div class="project-section">
+            </div>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h5 class="italic pull-right">
+                  <span class="startDate">07/2002</span>
+                  <span class="endDate"> - 09/2002</span>
+              </h5>
+            </div>
+        
+            <p class="summary">Nesta oportunidade, fui recurso em parte de uma licitação pública para manutenção do Sistema de Gestão Administrativa (SIGADM) de uma aplicação com processamento por stored procedures no Oracle 9i em redes de alta velocidades (Rede Rio 2) e Delphi 5.0.</p>
+        
+            <p class=""><b>Skills:</b> programador, delphi, oracle</p>
+       
+            <div class="project-section">
+            </div>
+          </section>
+        </div>
+        <div class="container volunteer-container">
+          <div class="title">
+            <h3>Voluntariado</h3>
+            <div class="keyline"></div>
+          </div>
+        
+          <section class="item">
+            <div class="section-header clearfix">
+              <h3 class="bold pull-left">
+                  StackOverflow S.L.
+              </h3>
+              <h5 class="italic pull-right">
+                  <span class="startDate">12/2015</span>
+                  <span class="endDate"> - Present</span>
+              </h5>
+            </div>
+              <h5>Senior Software Developer</h5>
+        
+              <p class="summary">O melhor caminho de aprender é ensinar.
+        
+        Na Stackoverflow posso ajudar novos desenvolvedores e aprender novas tecnologias.</p>
+        
+              <p class=""><b>Skills:</b> c#, delphi, javascript, angular, nestjs, jenkins, sql server, oracle</p>
+
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h3 class="bold pull-left">
+                  Movimento tech4COVID19
+              </h3>
+              <h5 class="italic pull-right">
+                  <span class="startDate">04/2020</span>
+                  <span class="endDate"> - Atual</span>
+              </h5>
+            </div>
+              <h5>Software Development Specialist</h5>
+        
+              <p class="summary">Estou disponível para desenvolver soluções por esta causa.</p>
+        
+          </section>
+        </div>
+        <div class="container education-container">
+          <div class="title">
+            <h3>Educação</h3>
+            <div class="keyline"></div>
+          </div>
+        
+          <section class="item">
+            <div class="section-header clearfix">
+              <h3 class="bold pull-left">
+                  Instituto Infnet
+              </h3>
+              <h5 class="italic pull-right">
+                  <span class="startDate">12/2005</span>
+                  <span class="endDate"> - 12/2005</span>
+              </h5>
+            </div>
+        
+            <h4>Certified DBA Oracle (SQL, Administration and Tunning)</h4>
+        
+              <ul class="two-column">
+                <li>SQL</li>
+                <li>Administration</li>
+                <li>Tunning</li>
+              </ul>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h3 class="bold pull-left">
+                  FABEC
+              </h3>
+              <h5 class="italic pull-right">
+                  <span class="startDate">12/2010</span>
+                  <span class="endDate"> - 12/2010</span>
+              </h5>
+            </div>
+        
+            <h4>Training ABAP, SAP</h4>
+        
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h3 class="bold pull-left">
+                  Faculdade da Academia Brasileira de Educação e Cultura
+              </h3>
+              <h5 class="italic pull-right">
+                  <span class="startDate">12/2010</span>
+                  <span class="endDate"> - 12/2010</span>
+              </h5>
+            </div>
+        
+            <h4>Certified SAP ABAP</h4>
+        
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h3 class="bold pull-left">
+                  Universidade Estácio de Sá
+              </h3>
+              <h5 class="italic pull-right">
+                  <span class="startDate">12/2014</span>
+                  <span class="endDate"> - 12/2016</span>
+              </h5>
+            </div>
+        
+            <h4>Bachelor&#x27;s Degree Computer Systems Analysis/Analyst, Developer</h4>
+        
+              <h5>Incomplete</h5>
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h3 class="bold pull-left">
+                  Centro Universitário Plinio Leite
+              </h3>
+              <h5 class="italic pull-right">
+                  <span class="startDate">12/2000</span>
+                  <span class="endDate"> - 12/2001</span>
+              </h5>
+            </div>
+        
+            <h4>Computer&#x27;s Science Incomplete</h4>
+        
+          </section>
+          <section class="item">
+            <div class="section-header clearfix">
+              <h3 class="bold pull-left">
+                  Colégio São Vicente de Paulo
+              </h3>
+              <h5 class="italic pull-right">
+                  <span class="startDate">12/1982</span>
+                  <span class="endDate"> - 12/1991</span>
+              </h5>
+            </div>
+        
+            <h4>Elementary School Primary School</h4>
+        
+          </section>
+        </div>
+        <div class="container references-container">
+          <div class="title">
+            <h3>Referências</h3>
+            <div class="keyline"></div>
+          </div>
+        
+          <section class="item clearfix">
+              <i class="fa fa-quote-left pull-left" aria-hidden="true"></i>
+              <blockquote>
+                André é um fenômeno! Além de uma pessoa incrível é um profissional que já sabe tudo! O cara sabe e muito da área que atua, é pró-ativo demais e não dá pra esperar menos do que um cara que faz a diferença no time. Foi, é e será sempre um grande prazer interagir contigo. Vlw. 
+              </blockquote>
+        
+              <h5 class="pull-right"> — Adriano Frota, MBA</h5>
+          </section>
+          <section class="item clearfix">
+              <i class="fa fa-quote-left pull-left" aria-hidden="true"></i>
+              <blockquote>
+                Andre is a tireless professional. 
+        Always searching for solutions and improvements to the client. 
+        Critical piece in any team. 
+        No I do not know in your dictionary exists, he is always updating and willing to seek new skills and knowledge. 
+        Always willing to give something more to the team. 
+        Truly one of the best professionals I have ever had the pleasure of working.
+              </blockquote>
+        
+              <h5 class="pull-right"> — Marcos Eduardo Simões</h5>
+          </section>
+          <section class="item clearfix">
+              <i class="fa fa-quote-left pull-left" aria-hidden="true"></i>
+              <blockquote>
+                Dentre os profissionais com que tive oportunidade de trabalhar , posso afirmar-lhes que o André está na listas dos 3 prossionais com maior capacidade técnica com quem trabalhei . Além de toda sua capacidade , é um profissional pró-ativo e sempre disposto a ajudar . O indico para qualquer vaga no mercado de TI .
+              </blockquote>
+        
+              <h5 class="pull-right"> — Gabriel Catharino Peralta</h5>
+          </section>
+          <section class="item clearfix">
+              <i class="fa fa-quote-left pull-left" aria-hidden="true"></i>
+              <blockquote>
+                Excelente profissional, proativo com excelentes idéias para melhorias tanto nos sistemas como na empresa.
+              </blockquote>
+        
+              <h5 class="pull-right"> — Anthony Roubaud Gonçalves</h5>
+          </section>
+          <section class="item clearfix">
+              <i class="fa fa-quote-left pull-left" aria-hidden="true"></i>
+              <blockquote>
+                André is a Highly capacited professional, He has a good tecnical knowledge e great careful with your activities. Definitly he&#x27;s a excelent person for a team.
+              </blockquote>
+        
+              <h5 class="pull-right"> — Lorando Edgardo</h5>
+          </section>
+          <section class="item clearfix">
+              <i class="fa fa-quote-left pull-left" aria-hidden="true"></i>
+              <blockquote>
+                André Mesquita é uma excelente pessoa e profissional. Além de todas as qualidades que um excelente profissional tem que ter, ele é um grande amigo, o que torna a convivência no ambiente de trabalho muito agradável.
+        Sendo repetitivo, ele é um excelente profissional.
+              </blockquote>
+        
+              <h5 class="pull-right"> — Jairo Souza</h5>
+          </section>
+          <section class="item clearfix">
+              <i class="fa fa-quote-left pull-left" aria-hidden="true"></i>
+              <blockquote>
+                Working with Andre was very pleasant. Everyday he came from home with some good new idea.
+        Self-motivated, innovative and very dedicated to his work and in maintain a good relationship with co-workers.
+              </blockquote>
+        
+              <h5 class="pull-right"> — Eduardo Luis Pinheiro Silva</h5>
+          </section>
+        </div>
+      </div>
+    </div>
+  </main>
+</body>
+
+</html>
