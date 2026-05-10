@@ -19,10 +19,8 @@ When I'm not coding, I'm either cooking or studying philosophy or taking long wa
 
 <div>&nbsp;</div>
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=avmesquita&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avmesquita&langs_count=6&layout=compact&theme=vision-friendly-dark">
-</p>
+<!-- RECENT_REPOS_START -->
+<!-- RECENT_REPOS_END -->
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=avmesquita&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
@@ -35,12 +33,16 @@ When I'm not coding, I'm either cooking or studying philosophy or taking long wa
 ### Where to find me?
 
 <ul>
-  <li><a href="https://andremesquita.com">andremesquita.com</a></li>
+  <li><a href="https://avmsistemas.net">avmsistemas.net</a></li>
   <li><a href="https://profile.codersrank.io/user/avmesquita">CodersRank</a></li>
   <li><a href="https://avmesquita.github.io">Resume</a></li>
   <li><a href="https://linkedin.com/in/avmesquita">Linkedin</a></li>
   <li><a href="https://stackoverflow.com/users/2788478/andre-mesquita">StackOverflow EN</a></li>  
   <li><a href="https://pt.stackoverflow.com/users/21263/andre-mesquita">StackOverflow PT</a></li>  
 </ul>
-<br><br><br>
-P.S.: I have no social media.
+
+### Useful Utility tools for everyday use
+<ul>
+  <li><a href="https://index.avmsistemas.net">My Utility Tools</a></li>
+</ul>
+
