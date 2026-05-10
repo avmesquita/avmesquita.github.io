@@ -1,5 +1,3 @@
-[![.github/workflows/recent-repos.yml](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/recent-repos.yml/badge.svg)](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/recent-repos.yml)
-
 ### About Me:    
 I am passionate about developing software applications and systems.
 
@@ -23,6 +21,11 @@ When I'm not coding, I'm either cooking or studying philosophy or taking long wa
 
 <!-- RECENT_REPOS_START -->
 <!-- RECENT_REPOS_END -->
+
+<div>&nbsp;</div>
+
+[![.github/workflows/recent-repos.yml](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/recent-repos.yml/badge.svg)](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/recent-repos.yml)
+
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=avmesquita&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
