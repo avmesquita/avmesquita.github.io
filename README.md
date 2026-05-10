@@ -1,3 +1,5 @@
+[![.github/workflows/recent-repos.yml](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/recent-repos.yml/badge.svg)](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/recent-repos.yml)
+
 ### About Me:    
 I am passionate about developing software applications and systems.
 
