@@ -27,6 +27,11 @@ When I'm not coding, I'm either cooking or studying philosophy or taking long wa
 
 ### Recent Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [Por que dar seus segredos para a OpenAI se você tem um notebook velho na gaveta?](https://medium.com/@avmesquita/por-que-dar-seus-segredos-para-a-openai-se-voc%C3%AA-tem-um-notebook-velho-na-gaveta-75cb271248f4?source=rss-f8030e6b8690------2)
+- [O Triângulo de Ferro do Desenvolvimento: Angular, NestJS e a Tipagem que te Liberta](https://medium.com/@avmesquita/o-tri%C3%A2ngulo-de-ferro-do-desenvolvimento-angular-nestjs-e-a-tipagem-que-te-liberta-0967f28c1ffd?source=rss-f8030e6b8690------2)
+- [Polêmica: Angular ou ReactJs?](https://medium.com/@avmesquita/pol%C3%AAmica-angular-ou-reactjs-1484678089fd?source=rss-f8030e6b8690------2)
+- [O Manifesto do Garimpeiro](https://medium.com/@avmesquita/o-manifesto-do-garimpeiro-fa79541c94e2?source=rss-f8030e6b8690------2)
+- [Análise Sistêmica da Situação do Brasil](https://medium.com/@avmesquita/an%C3%A1lise-sist%C3%AAmica-da-situa%C3%A7%C3%A3o-do-brasil-dfa571cadf19?source=rss-f8030e6b8690------2)
 <!-- BLOG-POST-LIST:END -->
 
 [![.github/workflows/blog-post.yml](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/blog-post.yml/badge.svg)](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/blog-post.yml)
