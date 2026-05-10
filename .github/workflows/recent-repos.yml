@@ -9,6 +9,8 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions: # Define o escopo de acesso do GITHUB_TOKEN
+      contents: write    
     steps:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/github-readme-recent-repos@master
