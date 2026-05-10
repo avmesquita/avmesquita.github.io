@@ -19,12 +19,6 @@ When I'm not coding, I'm either cooking or studying philosophy or taking long wa
   <a href="https://stackexchange.com/users/3316144"><img src="https://stackexchange.com/users/flair/3316144.png" width="208" height="58" alt="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </div>
 
-### Recent Repositories
-<!-- RECENT_REPOS_START -->
-<!-- RECENT_REPOS_END -->
-
-[![.github/workflows/recent-repos.yml](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/recent-repos.yml/badge.svg)](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/recent-repos.yml)
-
 ### Recent Medium Posts
 <!-- BLOG-POST-LIST:START -->
 - [Por que dar seus segredos para a OpenAI se você tem um notebook velho na gaveta?](https://medium.com/@avmesquita/por-que-dar-seus-segredos-para-a-openai-se-voc%C3%AA-tem-um-notebook-velho-na-gaveta-75cb271248f4?source=rss-f8030e6b8690------2)
