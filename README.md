@@ -21,13 +21,20 @@ When I'm not coding, I'm either cooking or studying philosophy or taking long wa
 
 <div>&nbsp;</div>
 
+### Recent Repositories
 <!-- RECENT_REPOS_START -->
 <!-- RECENT_REPOS_END -->
+
+### Recent Medium Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avmesquita)](https://github.com/avmesquita/github-readme-stats)
+
 
 <div>&nbsp;</div>
 
 [![.github/workflows/recent-repos.yml](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/recent-repos.yml/badge.svg)](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/recent-repos.yml)
-
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=avmesquita&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
