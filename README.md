@@ -29,8 +29,7 @@ When I'm not coding, I'm either cooking or studying philosophy or taking long wa
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[![.github/workflows/blog-post.yml](https://github.com/avmesquita/avmesquita.github.
-io/actions/workflows/blog-post.yml/badge.svg)](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/blog-post.yml)
+[![.github/workflows/blog-post.yml](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/blog-post.yml/badge.svg)](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/blog-post.yml)
 
 ### Stats
 <p align="center">
