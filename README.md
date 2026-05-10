@@ -19,16 +19,20 @@ When I'm not coding, I'm either cooking or studying philosophy or taking long wa
   <a href="https://stackexchange.com/users/3316144"><img src="https://stackexchange.com/users/flair/3316144.png" width="208" height="58" alt="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </div>
 
-<div>&nbsp;</div>
-
+### Recent Repositories
 <!-- RECENT_REPOS_START -->
 <!-- RECENT_REPOS_END -->
 
-<div>&nbsp;</div>
-
 [![.github/workflows/recent-repos.yml](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/recent-repos.yml/badge.svg)](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/recent-repos.yml)
 
+### Recent Medium Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+[![.github/workflows/blog-post.yml](https://github.com/avmesquita/avmesquita.github.
+io/actions/workflows/blog-post.yml/badge.svg)](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/blog-post.yml)
+
+### Stats
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=avmesquita&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
