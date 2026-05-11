@@ -1,0 +1,410 @@
+{
+  "$schema": "https://json.schemastore.org/resume",
+  "meta": { "theme": "kendall" },
+  "basics": {
+    "name": "Andre Mesquita",
+    "label": "Solution Architect - Software Developer",
+    "image": "https://www.andremesquita.com/wp-content/uploads/2020/07/BdP_quadrado_100x100.jpg",
+    "email": "avmesquita@gmail.com",
+    "phone": "+5521998428617",
+    "url": "https://andremesquita.com",
+    "summary": "Self-taught, proactive, generalist professional with a profile of development and systems integration, having worked for 14 years with development in Delphi and relational databases and in the last 10 years with .NET platform and cloud computing. \n\nPerhaps the greatest challenge of my career is to identify which part of my profession is not a hobby. The ease of logical understanding and the constant search for knowledge are great drivers of my career.",
+    "location": {
+      "address": "Niterói, Rio de Janeiro, Brasil",
+      "postalCode": "24230-136",
+      "city": "Niterói",
+      "countryCode": "BR",
+      "region": "Rio de Janeiro"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "avmesquita",
+        "url": "https://www.linkedin.com/in/avmesquita/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "REDITUS, SA",
+      "endDate": "",
+      "highlights": [ "architect", "developer", ".net", "asp.net", "mvc", "typescript", "angular", "javascript", "devops", "nestjs", "docker", "azure" ],
+      "position": "Senior Software Engineer",
+      "startDate": "2020-06-30",
+      "summary": "I started working with Reditus and PorData teams with javascript. I worked with Reditus Team at a great switzerland asset marketplace (Taurus Group) using Angular. Now I work at ANPG's project as analyst, architect, developer & devops.",
+      "url": "https://reditus.pt"
+    },
+    {
+      "name": "Banco de Portugal",
+      "endDate": "2020-04-30",
+      "highlights": [ "developer", ".net", "asp.net", "full stack", "sql server", "transact sql" ],
+      "position": "Senior System Analyst - .NET Developer",
+      "startDate": "2019-09-30",
+      "summary": "I worked at Banco de Portugal as a senior .NET software development (asp.net, mvc, webapi, webservices, tfs, c#, sql server) with a Solid Network team working in a project called Sires a.k.a. Relevated System Information to Supervisioned Entities.\n\nI acted into e-commerce SND Project (asp.net, mvc, webapi, webservices, git, tfs, c#, sql server) remotely at WA Fênix Software Factory.",
+      "url": "https://www.bportugal.pt"
+    },
+    {
+      "name": "AVM Sistemas",
+      "endDate": "",
+      "highlights": [ "architect", "developer", ".net", "asp.net", "mvc", "typescript", "angular", "javascript", "devops", "nestjs", "docker", "azure", "aws", "google cloud", "wordpress", "php" ],
+      "position": "Solutions Architect, Software Developer, DevOps, CEO",
+      "startDate": "2010-05-31",
+      "summary": "My own company to offering solutions remotely. \n\nAs a senior developer I have the possibility to offer a differential to serve various sectors of the industry and propose diversified solutions in more than one platform. I work directly with Amazon, Azure and Google infrastructure, speeding up the development of the solution. Among the solutions delivered, I highlight the development of solutions in C # (Asp.net/C#/VB.NET/Webforms/MVC), Wordpress, Delphi.",
+      "url": "https://avmsistemas.net"
+    },
+    {
+      "name": "Impeto Informática",
+      "endDate": "2019-08-31",
+      "highlights": [ "developer", ".net", "asp.net", "mvc", "WebForms" ],
+      "position": "Senior System Analyst, .NET Software Developer",
+      "startDate": "2018-08-31",
+      "summary": "I was working at IBMEC, in Citibank Tower, developing solutions in educational, financial and service management systems. I act as senior .NET software development (asp.net, mvc, webapi, webservices, git, c#, webforms, angular js).",
+      "url": "https://impeto.com.br"
+    },
+    {
+      "name": "Impeto Informática",
+      "endDate": "2018-05-31",
+      "highlights": [ "developer", ".net", "asp.net", "mvc", "WebForms" ],
+      "position": "Senior System Analyst, Software Developer .NET",
+      "startDate": "2018-02-28",
+      "summary": "I acted with IBMEC team to work into their projects to manage financial and customership systems, developing new features.\n\nFinancial System, called  SIGA, was developed into a hybrid system in C#, WebForms, Mvc and Angular JS with webservices and processes monitoring. Academic System was made to attend the classmate around the courses and was made in C# .NET MVC, bases with Stored Procedures and WebServices.\n\nFlow control of all systems working with a C# .net backend processed to do life to all systems.",
+      "url": "https://impeto.com.br"
+    },
+    {
+      "name": "Impeto Informática",
+      "endDate": "2016-01-31",
+      "highlights": [ "developer", ".net", "asp.net", "mvc", "WebForms", "aws", "delphi", "wordpress", "sql server", "oracle", "mysql", "transact sql" ],
+      "position": "System Analyst, Senior Software Developer",
+      "startDate": "2012-04-30",
+      "summary": "I worked with application development and participated of migration to cloud computing industry. At Ímpeto, I am awarded AWS Essentials, AWS Technical Professional and AWS Business Professional certifications.\nI worked into with S2 Holding company, Certifique Online, Ooyala Brasil, Academia do Concurso,  SEPE-RJ, TV Globo, IRB Brasil and as outsourcing at Casa & Vídeo.\nI have a pleasure to develop my own tools to help in the study and solution proposal. As needed, I worked with Delphi, Visual Studio VB.NET/C# , SQL Server, Oracle, Mysql, SSIS, Wordpress, Linux.",
+      "url": "https://impeto.com.br"
+    },
+    {
+      "name": "Orialnet Sistemas e Soluções Integradas",
+      "endDate": "2012-04-30",
+      "highlights": [ "developer", "delphi", "abap", "oracle", "pl/sql" ],
+      "position": "Senior Software Developer",
+      "startDate": "2011-12-31",
+      "summary": "The company is focused on international trade and has some related products. The systems are integrated with SAP. Here we work with Delphi, Oracle PL/SQL and ABAP.",
+      "url": "http://www.orialnet.com.br/"
+    },
+    {
+      "name": "Philips Healthcare",
+      "endDate": "2011-11-30",
+      "highlights": [ "developer", "delphi", "oracle", "postgres" ],
+      "position": "Senior Software Developer",
+      "startDate": "2011-05-31",
+      "summary": "I worked with Delphi on backend development at Philips MultiMED RIS product.",
+      "url": "https://www.usa.philips.com/healthcare/medical-specialties/healthcare-informatics"
+    },
+    {
+      "name": "Ímpeto Informática",
+      "endDate": "2011-04-30",
+      "highlights": [ "developer", "delphi", "sql server", "transact sql" ],
+      "position": "Senior Software Developer",
+      "startDate": "2010-02-28",
+      "summary": "I have worked on Delphi and Transact SQL backend solutions in support of retail-driven applications.",
+      "url": "https://impeto.com.br"
+    },
+    {
+      "name": "Casa & Video",
+      "endDate": "2011-04-30",
+      "highlights": [ "developer", "delphi", "sql server", "oracle", "mysql", "c#", "wcf", "soap" ],
+      "position": "Senior Software Developer, Systems Analyst",
+      "startDate": "2008-07-31",
+      "summary": "I worked in the development of back office solutions for retail. Commonly used tools were Delphi, SQL Server (Transact-SQL), Oracle, MySQL, C#, WCF/SOAP webservices.",
+      "url": "https://casaevideo.com.br"
+    },
+    {
+      "name": "Nexxus Sistemas",
+      "endDate": "2008-03-31",
+      "highlights": [ "developer", "delphi", "sql server", "transact sql" ],
+      "position": "Software Developer",
+      "startDate": "2007-07-31",
+      "summary": "Software development of Asset Management Systems with Borland Delphi 5/7, SQL Server 2000, MySQL, Firebird.",
+      "url": "https://nexxus-sistemas.com.br/"
+    },
+    {
+      "name": "CMCorp Soluções em Informática.",
+      "endDate": "2007-06-30",
+      "highlights": [ "developer", "delphi", "oracle" ],
+      "position": "Software Developer",
+      "startDate": "2007-03-31",
+      "summary": "Software development of Private Previdence Systems with Borland Delphi and Oracle.",
+      "url": "https://www.cmcorp.com.br/"
+    },
+    {
+      "name": "LexOnline Consultores Associados Ltda.",
+      "endDate": "2007-02-28",
+      "highlights": [ "developer", "delphi" ],
+      "position": "Software Developer",
+      "startDate": "2006-09-30",
+      "summary": "Development Lawyer System with Borland Delphi 6/7, Data Model with ER-Win, Turbo Power Flash Filer Database, Firebird Embeded Database, configuration, scripting and tunnig of Linux Server, little development of Servlets/JSP.",
+      "url": ""
+    },
+    {
+      "name": "PredialNET Informática Ltda.",
+      "endDate": "2006-10-31",
+      "highlights": [ "developer", "delphi", "mysql" ],
+      "position": "Software Developer",
+      "startDate": "2006-04-30",
+      "summary": "Development Administrative, Operatinal, CRM Systems with Borland Delphi 5/7 with MySQL 4.0/4.1, Data Model with ER-Win, Sockets, Multi-threading, Report Generator and Server Integration Systems.",
+      "url": "https://predialnet.com.br/"
+    },
+    {
+      "name": "BrasilCenter",
+      "endDate": "2005-09-30",
+      "highlights": [ "developer", "delphi", "oracle" ],
+      "position": "Software Developer, Systems Analyst",
+      "startDate": "2004-02-28",
+      "summary": "Development of Monitoring, Sells and Inbound Systems with Borland Delphi 7, Oracle, Data Model with ERWin, UML with Rose, Version Control System with MS-Source Safe.",
+      "url": "https://brasilcenter.com.br"
+    },
+    {
+      "name": "Lee Consultoria e Sistemas Ltda.",
+      "endDate": "2003-05-31",
+      "highlights": [ "developer", "delphi" ],
+      "position": "Software Developer",
+      "startDate": "2003-03-31",
+      "summary": "Database modelling with ERWin, Systems Development with Borland Delphi 5.0 and System Integration of CRM and Retail.",
+      "url": "http://leeconsultoria.com.br/"
+    },
+    {
+      "name": "INCQS - FIOCRUZ",
+      "endDate": "2002-09-30",
+      "highlights": [ "developer", "delphi", "oracle" ],
+      "position": "Software Developer",
+      "startDate": "2002-07-31",
+      "summary": "System Development and System Integrator. CRM (SIGADM) in Borland Delphi 5.0 / Oracle 9i.",
+      "url": "https://www.incqs.fiocruz.br/"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "StackOverflow S.L.",
+      "position": "Senior Software Developer",
+      "url": "https://www.linkedin.com/company/9416685",
+      "startDate": "2015-12-31",
+      "endDate": "",
+      "summary": "The best way to learn is teach.\n\nAt Stackoverflow I can help new developers and learn new technologies.",
+      "highlights": [ "c#", "delphi", "javascript", "angular", "nestjs" ]
+    },
+    {
+      "organization": "Movimento tech4COVID19",
+      "position": "Software Development Specialist",
+      "url": "https://www.linkedin.com/company/42444187",
+      "startDate": "2020-04-30",
+      "endDate": "",
+      "summary": "I am available to develop software for this cause.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Infnet",
+      "area": "DBA Oracle (SQL, Administration and Tunning)",
+      "studyType": "Certified",
+      "startDate": "2005-12-31",
+      "endDate": "2005-12-31",
+      "gpa": "",
+      "courses": [ "SQL", "Administration", "Tunning" ]
+    },
+    {
+      "institution": "FABEC",
+      "area": "ABAP, SAP",
+      "studyType": "Training",
+      "startDate": "2010-12-31",
+      "endDate": "2010-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Faculdade da Academia Brasileira de Educação e Cultura",
+      "area": "SAP ABAP",
+      "studyType": "Certified",
+      "startDate": "2010-12-31",
+      "endDate": "2010-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidade Estácio de Sá",
+      "area": "Computer Systems Analysis/Analyst, Developer",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2014-12-31",
+      "endDate": "2016-12-31",
+      "gpa": "Incomplete",
+      "courses": []
+    },
+    {
+      "institution": "Centro Universitário Plinio Leite",
+      "area": "Incomplete",
+      "studyType": "Computer's Science",
+      "startDate": "2000-12-31",
+      "endDate": "2001-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Colégio São Vicente de Paulo",
+      "area": "Primary School",
+      "studyType": "Elementary School",
+      "startDate": "1982-12-31",
+      "endDate": "1991-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Fing IT Professional (Credential ID ITPRO-200819903)",
+      "date": "2024-07-07",
+      "issuer": "Fing",
+      "url": "https://www.fing.com/"
+    },
+    {
+      "name": "Azure Data Fundamentals",
+      "date": "2021-06-01",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/3bc7c153-9f29-4ff1-b81d-d575eda871ad/public_url"      
+    },
+    {
+      "name": "C# & .NET: Programming",
+      "date": "2020-05-13",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/af3e123cffd05510e32419435d610bfbf8e28aa588608692eb66c57fd1210349?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    },    
+    {
+      "name": "C# Design Patterns: Part 3",
+      "date": "2020-05-13",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/4d50ac437c26959d2ebad089e783405b61bf61da4afd1167cf815cb3aef7862a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    },
+    {
+      "name": "C#: Delegates, Events and Lambdas",
+      "date": "2020-05-14",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/201db8cc2e5aaecf6c79798861db7e555a12799777e4b98389286b66b4a3978e?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    },
+    {
+      "name": "Cloud Architecture: Advanced Concepts",
+      "date": "2020-05-14",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/705748c305fd53b6b47f6b4d5ef976abf55e75434719d0e08a55a4155f57459b?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    },
+    {
+      "name": "Docker for .NET Developers with Visual Studio",
+      "date": "2020-05-14",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/ec25655d19d41d588e64223b5dbbd2089a4a0a38a2a2aa87b2eb7646669198ef?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    },
+    {
+      "name": "Learning .NET Programming",
+      "date": "2020-05-08",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/72acd84e09d99cfd5c5c7c0dbf49e2c76409e9317b5ae9c6e85b22479a44dcbd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    },
+    {
+      "name": "Learning ASP.NET Core MVC",
+      "date": "2020-05-13",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/fe40b669a43257eb2020d9734fe1f561ae4d06c3cc0b40e37ca58d4dd1d67d97?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    },
+    {
+      "name": "Learning C# Algorithms",
+      "date": "2020-05-13",
+      "issuer": "Linkedin",
+      "url": "https://www.linkedin.com/learning/certificates/23885ef96a43640ee19176e72c30985f0bfc19a8cbf8cb359104c90ab7ddab0b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQhPKeEGoQiet6MxxHswzYQ%3D%3D"
+    }
+  ],  
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Cloud Computing",
+      "level": "Advanced",
+      "keywords": [ "AWS" , "Azure" ]
+    },
+    {
+      "name": "Relational Databases",
+      "level": "Advanced",
+      "keywords": [ "Oracle", "SQL Server", "PostgreSQL", "MySQL", "Firebird", "Interbase" ]
+    },
+    {
+      "name": "Database Programming",
+      "level": "Advanced",
+      "keywords": [ "Transact SQL", "PL/SQL" ]
+    },
+    {
+      "name": "Tools",
+      "level": "Advanced",
+      "keywords": [ "Microsoft Project", "Visual Studio", "Visual Code", "ER-Win" ]
+    },
+    {
+      "name": "Development Languages",
+      "level": "Advanced",
+      "keywords": [ "Angular", "C#", "PHP", "Delphi", "VB.NET", "ASP.NET WebForms", "ASP.NET MVC", "Javascript", "ABAP", "SSIS", "Shell Scripting", "TypeScript" ]
+    },
+    {
+      "name": "Methodologies",
+      "level": "Advanced",
+      "keywords": [ "Scrum", "XP", "Design Patterns", "UML", "Data Modelling" ]
+    },
+    {
+      "name": "Platforms",
+      "level": "Advanced",
+      "keywords": [ "Windows", "Linux", "Windows Mobile" ]
+    },
+    {
+      "name": "Industry",
+      "level": "Advanced",
+      "keywords": [ "E-commerce", "Financial", "Retail", "Asset Management" ]
+    }	
+  ],
+  "languages": [
+    {
+      "language": "pt",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "br",
+      "fluency": "Native Speaker"
+    },    
+    {
+      "language": "en",
+      "fluency": "Intermediate"
+    }	
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Adriano Frota, MBA",
+      "reference": "André é um fenômeno! Além de uma pessoa incrível é um profissional que já sabe tudo! O cara sabe e muito da área que atua, é pró-ativo demais e não dá pra esperar menos do que um cara que faz a diferença no time. Foi, é e será sempre um grande prazer interagir contigo. Vlw. "
+    },
+    {
+      "name": "Marcos Eduardo Simões",
+      "reference": "Andre is a tireless professional. \r\nAlways searching for solutions and improvements to the client. \r\nCritical piece in any team. \r\nNo I do not know in your dictionary exists, he is always updating and willing to seek new skills and knowledge. \r\nAlways willing to give something more to the team. \r\nTruly one of the best professionals I have ever had the pleasure of working."
+    },
+    {
+      "name": "Gabriel Catharino Peralta",
+      "reference": "Dentre os profissionais com que tive oportunidade de trabalhar , posso afirmar-lhes que o André está na listas dos 3 prossionais com maior capacidade técnica com quem trabalhei . Além de toda sua capacidade , é um profissional pró-ativo e sempre disposto a ajudar . O indico para qualquer vaga no mercado de TI ."
+    },
+    {
+      "name": "Anthony Roubaud Gonçalves",
+      "reference": "Excelente profissional, proativo com excelentes idéias para melhorias tanto nos sistemas como na empresa."
+    },
+    {
+      "name": "Lorando Edgardo",
+      "reference": "André is a Highly capacited professional, He has a good tecnical knowledge e great careful with your activities. Definitly he's a excelent person for a team."
+    },
+    {
+      "name": "Jairo Souza",
+      "reference": "André Mesquita é uma excelente pessoa e profissional. Além de todas as qualidades que um excelente profissional tem que ter, ele é um grande amigo, o que torna a convivência no ambiente de trabalho muito agradável.\r\nSendo repetitivo, ele é um excelente profissional."
+    },
+    {
+      "name": "Eduardo Luis Pinheiro Silva",
+      "reference": "Working with Andre was very pleasant. Everyday he came from home with some good new idea.\r\nSelf-motivated, innovative and very dedicated to his work and in maintain a good relationship with co-workers."
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,135 @@
+ANDRE VELOSO DE MESQUITA 
+
+Desenvolvedor Full Stack | Especialista em .NET, Angular, NestJs, SQL e DevOps 
+
+CONTATO: 
+Email: avmesquita@gmail.comavmesquita@gmail.c8om 
+Telefone: +55 (21) 99842-8617 
+Linkedin: linkedin.com/in/avmesquita 
+Localidade: Niterói, RJ - Disponível para mudança 
+
+RESUMO PROFISSIONAL: 
+
+Desenvolvedor de Software Fullstack com mais de 15 anos de experiência em 
+desenvolvimento de aplicações, desktop e web. Sólida atuação nas camadas back-end 
+(C#, .NET Framework. NET Core, ASP.NET MVC, WebForms, NestJs) e front-end 
+(Angular, React, JavaScript/TypeScript), além de amplo conhecimento em bancos de 
+dados relacionais (SQL Server, Oracle, MySQL, PostgreSQL).  
+Especializado em arquitetura de soluções e computação em nuvem (AWS, Azure, 
+Firebase), com histórico de projetos para grandes empresas do setor financeiro, 
+e-commerce e varejo. Profissional proativo e autodidata, com perfil generalista, apto a 
+atuar em equipes ágeis (Scrum, XP) e incorporação práticas de DevOps (Docker, CI/CD) 
+nas entregas. Apto a utilizar IA no processo de desenvolvimento. 
+
+HABILIDADES:  
+
+.NET, C#, Angular, NestJs, NodeJs, ReactJs, Ionic, Delphi, VB.NET, Visual Studio, SQL 
+Server, Oracle, MySQL, Postgres, T-SQL, PL/SQL, PSQL, Stored Procedures, Windows 
+Services, WCF Services, MS Integration Services, DevOps, PHP, ASP.NET MVC, 
+ASP.NET WebForms, Xamarin, Cloud Computing, Firebase, Amazon Web Services 
+(AWS), Microsoft Azure, Google Firebase 
+
+EXPERIÊNCIA PROFISSIONAL: 
+
+● Desenvolvedor Full Stack Senior 
+Nstech 
+Setembro/2025 – Atual 
+Ponta Grossa, PR, Brasil 
+
+– Remoto - Desenvolvimento e manutenção de produtos relacionados à logística com ênfase 
+em gestão de pátios de carga em recebimentos e expedições. Tecnologias 
+utilizadas: .NET (4.8, Core, Standard, MVC), C#, Python, SQL Server e Mongodb. 
+
+● Arquiteto de Soluções & Desenvolvedor Full Stack  
+Reditus, SA 
+Junho/2020 – Maio/2025 
+Lisboa, Portugal – Remoto 
+
+- Arquitetura e desenvolvimento de sistemas corporativos para clientes de grande 
+porte (setor financeiro e governamental), incluindo modelagem de dados e 
+integração de serviços. Tecnologias utilizadas: .NET (Core, MVC, WebForms), C#, 
+TypeScript, Angular, PHP (WordPress), NestJS, Docker, Azure (App Services, 
+DevOps) e AWS. 
+
+- Definição de soluções em nuvem (Azure, AWS) e processos de DevOps 
+(implementação de pipelines CI/CD). - Trabalhei com clientes de Portugal, Moçambique e Suíça. 
+
+● Desenvolvedor de Software Full Stack  
+Fadami – Software & Innovation 
+Janeiro/2025 – Abril/2025 
+Rio de Janeiro, Brasil
+
+– Híbrido - Desenvolvimento full stack do produto para pagamento de pedágios Free Flow 
+com ReactJs, .NET e SQL Server (T-SQL). 
+
+● Desenvolvedor Full Stack 
+Banco de Portugal 
+Setembro de 2019 – Abril/2020 
+Lisboa, Portugal – Presencial 
+
+- Desenvolvimento do projeto SIRES (Sistema de Informações Relevantes). 
+
+- Desenvolvimento funcionalidades de front-end e back-end usando ASP.NET 
+MVC, Web API e JavaScript, consumindo APIs REST e manipulando dados em 
+SQL Server (T-SQL/SSIS), versionamento de código, testes unitários e implantação 
+em ambiente controlado. - Contribuição na análise de requisitos e implementação de soluções full stack, 
+aplicando boas práticas de codificação (C#, Transact-SQL) em um ambiente 
+Scrum. 
+
+● Desenvolvedor de Software Full Stack 
+IBMEC 
+Agosto/2018 – Agosto/2019 
+Rio de Janeiro – Presencial 
+
+- Sistemas Acadêmico e Financeiro: manutenção e criação de funcionalidades em 
+C# (ASP.NET MVC, WebForms) e Angular. Desenvolvimento de módulos de gestão 
+de alunos e cadastro acadêmico com banco de dados SQL Server (Stored 
+Procedures, Web Services). 
+
+- Desenvolvimento de recursos financeiros no sistema SIGA: geração de boletos 
+bancários, processamento de remessas e retornos, utilizando .NET Core e serviços 
+web. Participação no projeto open source Boleto.Net (integração de sistema 
+bancário). 
+
+● Sócio-Fundador & Consultor de TI  
+AVM Sistemas  
+Maio/2010 – Agosto/2019 
+Niterói, Rio de Janeiro | Remoto 
+- Criação de soluções independentes e consultoria em desenvolvimento full stack e 
+arquitetura de sistemas para diversos clientes. 
+- Projetos envolvendo .NET Core, ASP.NET MVC, Angular, NestJS (Node.js) no 
+desenvolvimento de aplicações web e móveis. 
+- Implementação de plataformas em nuvem (AWS, Azure, Google Cloud) e 
+automação de infraestrutura com Docker, Kubernetes e ferramentas DevOps 
+(CI/CD). 
+- Desenvolvimento de sites e e-commerces com WordPress/PHP e integração de 
+serviços via APIs; atuação como mentor, compartilhando conhecimentos técnicos. 
+
+● Analista de Sistemas Senior, Desenvolvedor, DevOps  
+Ímpeto Informática 
+Abril/2012 – Janeiro/2016 
+Rio de Janeiro | Presencial 
+
+- Projetos de migração e desenvolvimento em Cloud AWS: planejamento de 
+arquitetura de sistemas e implementação de soluções em .NET (C#) e Delphi. - Desenvolvimento de ferramentas internas e soluções corporativas para clientes 
+(varejo e e-commerce), usando VB.NET, C#, SQL Server, Oracle, MySQL e SSIS. 
+Criação de sites institucionais em WordPress e automação de processos internos. 
+
+- Conquista de certificações AWS (AWS Certified Cloud Practitioner – Essentials; 
+AWS Technical Professional; AWS Business Professional) e experiência em 
+práticas DevOps (Git, Jenkins, Azure DevOps). - Projetos de migração e desenvolvimento em Cloud AWS: planejamento de 
+arquitetura de sistemas e implementação de soluções em .NET (C#) e Delphi. - 
+Desenvolvimento de ferramentas internas e soluções corporativas para clientes 
+(varejo e e-commerce), usando VB.NET, C#, SQL Server, Oracle, MySQL e SSIS. 
+Criação de sites institucionais em WordPress e automação de processos internos. - 
+Conquista de certificações AWS (AWS Certified Cloud Practitioner – Essentials; 
+AWS Technical Professional; AWS Business Professional) e experiência em 
+práticas DevOps (Git, Jenkins, Azure DevOps). 
+
+Certificações e Cursos: 
+- Azure Data Fundamentals 
+- AWS Business Professional 
+- AWS Technical Professional 
+- AWS Essentials 
+- C# Design Patterns - Docker for .NET Developers with Visual Studio 
+- ASP-NET Core MVC - ABAP Trainning - DBA Oracle 9i (SQL, Administração, Tunning)
