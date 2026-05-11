@@ -5,8 +5,10 @@
 
 ### Resume
 
-[PT](./docs/andre-mesquita.docx.pdf) - Português
 
-[EN](./docs/andre-mesquita.docx-en.pdf) - English
+| Language | File |
+| ----------- | ----------- |
+| Português | [PDF](./docs/andre-mesquita.docx.pdf) |
+| English | [PDF](./docs/andre-mesquita.docx-en.pdf) |
+| LLM Ready | [TXT](./docs/andre-mesquita.docx.txt) |
 
-[LLM - PT](./docs/andre-mesquita.docx.txt) - IA Ready
